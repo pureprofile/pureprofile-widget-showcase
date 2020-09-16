@@ -1,0 +1,3 @@
+[submodule "hugo-xmag"]
+	path = hugo-xmag
+	url = https://github.com/yihui/hugo-xmag.git
