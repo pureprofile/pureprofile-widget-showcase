@@ -1,0 +1,3 @@
+rm -rf ./public &&
+hugo -D &&
+sed -i '' 's+-ppshowcase/+-ppshowcase/?ppforcesurvey=1\&pp_force=true\&pp_tracking_id=auto+g' ./public/**/*(D.)
