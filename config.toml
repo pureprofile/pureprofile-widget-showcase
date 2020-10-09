@@ -13,7 +13,7 @@ paginate = 6
 relativeURLs = true
 
 [permalinks]
-    post = "/post/:day/:month/:year/:slug/"
+    post = "/post/:day-:month-:year/:slug-ppshowcase"
 
 [[menu.main]]
     name = "Home"

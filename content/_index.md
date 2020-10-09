@@ -1,3 +1,3 @@
 ---
-title: Pureprofile Widget Showcase
+title: Widget
 ---
