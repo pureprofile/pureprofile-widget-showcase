@@ -1,74 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Widget on Pureprofile</title>
+    <title>Widget on Widget Showcase</title>
     <link>/</link>
-    <description>Recent content in Widget on Pureprofile</description>
+    <description>Recent content in Widget on Widget Showcase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Toaster Top Right</title>
-      <link>/post/01-06-2020/toaster-top-right-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <link>/post/01-07-2020/toaster-top-right/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/01-06-2020/toaster-top-right-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</guid>
+      <guid>/post/01-07-2020/toaster-top-right/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
       <title>Toaster Bottom Left</title>
-      <link>/post/01-05-2020/toaster-bottom-left-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <link>/post/01-06-2020/toaster-bottom-left/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/01-05-2020/toaster-bottom-left-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</guid>
+      <guid>/post/01-06-2020/toaster-bottom-left/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
       <title>Slide in From Bottom</title>
-      <link>/post/01-04-2020/slide-in-from-bottom-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <link>/post/01-05-2020/slide-in-from-bottom/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/01-04-2020/slide-in-from-bottom-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</guid>
+      <guid>/post/01-05-2020/slide-in-from-bottom/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
       <title>Slide In From Top</title>
-      <link>/post/01-03-2020/slide-in-from-top-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <link>/post/01-04-2020/slide-in-from-top/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/01-03-2020/slide-in-from-top-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</guid>
+      <guid>/post/01-04-2020/slide-in-from-top/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
       <title>Push Down</title>
-      <link>/post/01-02-2020/push-down-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <link>/post/01-03-2020/push-down/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/01-02-2020/push-down-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</guid>
+      <guid>/post/01-03-2020/push-down/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
       <title>Embed</title>
-      <link>/post/01-01-2020/embed-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <link>/post/01-02-2020/embed/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/01-01-2020/embed-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</guid>
+      <guid>/post/01-02-2020/embed/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 !function(e,n){let a=n.</description>
+    </item>
+    
+    <item>
+      <title>Clear Cookies</title>
+      <link>/post/01-01-2020/clear-cookies/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/01-01-2020/clear-cookies/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
   </channel>

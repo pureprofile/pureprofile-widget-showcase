@@ -1,22 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Pureprofile</title>
+    <title>Tags on Widget Showcase</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Pureprofile</description>
+    <description>Recent content in Tags on Widget Showcase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>/tags/lorem-ipsum/</link>
+      <title>Toaster Top Right</title>
+      <link>/tags/toaster-top-right/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/toaster-top-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toaster Bottom Left</title>
+      <link>/tags/toaster-bottom-left/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lorem-ipsum/</guid>
+      <guid>/tags/toaster-bottom-left/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slide In From Bottom</title>
+      <link>/tags/slide-in-from-bottom/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/slide-in-from-bottom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slide In From Top</title>
+      <link>/tags/slide-in-from-top/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/slide-in-from-top/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Push Down</title>
+      <link>/tags/push-down/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/push-down/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embed</title>
+      <link>/tags/embed/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/embed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clear Cookies</title>
+      <link>/tags/clear-cookies/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/clear-cookies/</guid>
       <description></description>
     </item>
     

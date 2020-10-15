@@ -4,61 +4,96 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/lorem-ipsum/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/statistics/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/01-06-2020/toaster-top-right-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <loc>/tags/toaster-top-right/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/01-07-2020/toaster-top-right/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/toaster-bottom-left/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/01-05-2020/toaster-bottom-left-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</loc>
+    <loc>/post/01-06-2020/toaster-bottom-left/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/slide-in-from-bottom/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/01-04-2020/slide-in-from-bottom-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</loc>
+    <loc>/post/01-05-2020/slide-in-from-bottom/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/slide-in-from-top/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/01-03-2020/slide-in-from-top-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</loc>
+    <loc>/post/01-04-2020/slide-in-from-top/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/push-down/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/01-02-2020/push-down-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</loc>
+    <loc>/post/01-03-2020/push-down/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/embed/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/01-01-2020/embed-ppshowcase/?ppforcesurvey=1&pp_force=true&pp_tracking_id=auto</loc>
+    <loc>/post/01-02-2020/embed/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/clear-cookies/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/01-01-2020/clear-cookies/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
