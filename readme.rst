@@ -10,7 +10,7 @@ pureprofile-widget-showcase repository
 
 3. Make/edit articles at /content/post
 
-4. Type "zsh build".
+4. Type "./build".
 
 5. Check it using "live-server ./public"
 
