@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Pureprofile"
+title = "Widget Showcase"
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""
