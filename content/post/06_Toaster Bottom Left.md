@@ -1,11 +1,11 @@
 ---
-title: Slide in From Bottom
+title: Toaster Bottom Left
 author: Pureprofile
-date: "2020-04-01"
+date: "2020-06-01"
 categories:
   - Statistics
 tags:
-  - Lorem Ipsum
+  - Toaster Bottom Left
 ---
 
 **Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
